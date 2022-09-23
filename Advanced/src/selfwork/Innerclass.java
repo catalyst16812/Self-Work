@@ -1,4 +1,4 @@
-package telusko;
+package selfwork;
 
 class outer{
 	

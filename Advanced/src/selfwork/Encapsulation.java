@@ -1,4 +1,4 @@
-package telusko;
+package selfwork;
 
 class Student{
 	private int roll;

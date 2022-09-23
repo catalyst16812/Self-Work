@@ -1,4 +1,4 @@
-package telusko;
+package selfwork;
 
 //int , float , double
 //Integer

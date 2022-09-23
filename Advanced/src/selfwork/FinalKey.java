@@ -1,4 +1,4 @@
-package telusko;
+package selfwork;
 class Aa{
 	final int NUM;
 	public Aa()
