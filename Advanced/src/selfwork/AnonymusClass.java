@@ -33,7 +33,8 @@ public class AnonymusClass {
 					};
 		obj.print();
 		obj.show();
-		obj.sum(new int[]{1,2,3,4,5,6,7,8,9,10}); //anonymus array
+		obj.sum(new
+				int[]{1,2,3,4,5,6,7,8,9,10}); //anonymus array
 			
 			
 }

@@ -1,5 +1,10 @@
 package selfwork;
 
+//Types of interface
+//1, Normat
+//2. Single abstract method ~ Functional Interface - Lamda Expression ~ Scala
+//3. Marker interface
+
 interface writer2{
 	public void write();
 }
